@@ -71,7 +71,8 @@ namespace PSSSupporter
                     ca = char1;
                 }
             }
-            //return;
+            return;
+
             while (true) {
                 try {
                     engine.StartAutocombatIterations();
